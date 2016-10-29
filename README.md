@@ -23,14 +23,19 @@
 >* 研究生一年级新生，目前正在上海交通大学软件学院学习姿势，2019年毕业
 >* Github Heavy User，可以不吃饭，不能不上同性交友网站
 >* 刺客信条粉，虽然已经不怎么玩了
-> 
+>
 > More on [About Me](http://gaocegege.com/Blog/about/) or [My Resume](http://gaocegege.com/resume/cn/)
 
 ### 杨文杰
 
-```cpp
-// TODO
-```
+[@mrmiywj](https://github.com/mrmiywj), 目前精力投入在 [rust](https://rust-lang.org)社区, [servo/servo](https://github.com/servo/servo)和[pingcap/tikv](https://github.com/tikv).
+>我是一个:
+>
+>* 即将毕业滚粗的大四CS狗T.T
+>* 关注开源社区, 函数式编程的布道者, 各个领域略通一二的吹水嘴强王者...
+>* 兴趣杂食, 桌游爱好者, (守望先锋玩家)
+>
+> More on [About Me](blog.ivanyang.me)
 
 ## 招新
 
