@@ -35,7 +35,7 @@
 >* 关注开源社区, 函数式编程的布道者, 各个领域略通一二的吹水嘴强王者...
 >* 兴趣杂食, 桌游爱好者, (守望先锋玩家)
 >
-> More on [About Me](blog.ivanyang.me)
+> More on [About Me](https://blog.ivanyang.me)
 
 ## 招新
 
