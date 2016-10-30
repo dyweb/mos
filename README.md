@@ -1,5 +1,7 @@
 # MOOC & Open Source Group
 
+>东岳 Mos 组
+
 ## 活动
 
 ### 周期性活动
