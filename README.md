@@ -30,7 +30,7 @@
 
 ### 高策
 
-[@gaocegege](https://github.com/gaocegege)，目前比较关注 [docker/docker](https://github.com/docker/docker) 和 [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+[@gaocegege](https://github.com/gaocegege)，目前比较关注 [docker/docker](https://github.com/docker/docker) 和 [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes).
 >我是一个：
 >
 >* 研究生一年级新生，目前正在上海交通大学软件学院学习姿势，2019年毕业
@@ -41,7 +41,7 @@
 
 ### 杨文杰
 
-[@mrmiywj](https://github.com/mrmiywj), 目前精力投入在 [rust](https://rust-lang.org)社区, [servo/servo](https://github.com/servo/servo)和[pingcap/tikv](https://github.com/tikv).
+[@mrmiywj](https://github.com/mrmiywj), 目前精力投入在 [rust](https://rust-lang.org) 社区, [servo/servo](https://github.com/servo/servo) 和 [pingcap/tikv](https://github.com/tikv).
 >我是一个:
 >
 >* 即将毕业滚粗的大四CS狗T.T
