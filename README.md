@@ -33,7 +33,7 @@
 ### 高策
 
 [@gaocegege](https://github.com/gaocegege)，目前比较关注 [docker/docker](https://github.com/docker/docker) 和 [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes).
->我是一个：
+> 我是一个：
 >
 >* 研究生一年级新生，目前正在上海交通大学软件学院学习姿势，2019年毕业
 >* Github Heavy User，可以不吃饭，不能不上同性交友网站
@@ -44,9 +44,9 @@
 ### 杨文杰
 
 [@mrmiywj](https://github.com/mrmiywj), 目前精力投入在 [rust](https://rust-lang.org) 社区, [servo/servo](https://github.com/servo/servo) 和 [pingcap/tikv](https://github.com/tikv).
->我是一个:
+> 我是一个:
 >
->* 即将毕业滚粗的大四CS狗T.T
+>* 即将毕业滚粗的大四 CS 狗T.T
 >* 关注开源社区, 函数式编程的布道者, 各个领域略通一二的吹水嘴强王者...
 >* 兴趣杂食, 桌游爱好者, (守望先锋玩家)
 >
@@ -55,7 +55,7 @@
 ### 朱成
 
 [@arrowrowe](https://github.com/arrowrowe), 目前精力投入在[实习](http://yitutech.com/), 兼顾 [dyweb](https://github.com/dyweb/) 的日常.
->我是一个:
+> 我是一个:
 >
 >* 即将毕业滚粗的大四数学狗 T.T
 >* 数据工程师新人, Web 前后端半坑, 开坑不填爱好者
