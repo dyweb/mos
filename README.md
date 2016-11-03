@@ -61,7 +61,7 @@
 >* 数据工程师新人, Web 前后端半坑, 开坑不填爱好者
 >* 伪东方宅
 >
-> More on [About Me](https://arrowrowe.me)
+> More on [About Me](http://arrowrowe.me)
 
 
 ### 张宇宁
