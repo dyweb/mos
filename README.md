@@ -62,11 +62,16 @@
 >* 数据工程师新人, Web 前后端半坑, 开坑不填爱好者
 >* 伪东方宅
 >
-> More on [About Me](https://arrowrowe.me)
+> More on [About Me](http://arrowrowe.me)
 
 
 ### 张宇宁
 
-```cpp
-// TODO
-```
+[@codeworm96](https://github.com/codeworm96), 目前精力投入在写大作业和寻找实习。
+> 我是一个:
+>
+>* (即将 . 即将) 毕业滚粗的大三 SE 狗 T.T
+>* 缺少正规训练的 programming language 爱好者，想写 [Rust](https://rust-lang.org)
+>* 伪铁道爱好者
+>
+> More on [My Resume](https://codeworm96.github.io/resume/)
