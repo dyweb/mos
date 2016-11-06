@@ -81,3 +81,14 @@
 刚投入软工怀抱的大二狗
 缺少大一正规训练，目前正在恶补基础的学渣
 已戒游戏，仍喜欢看书打网球
+
+### 钱圣轶
+
+[@JasonQSY](https://github.com/JasonQSY).
+> 我是一个：
+>
+>* 不即将毕业的大二密院狗 =，=
+>* 数据分析和 web 后端爱好者, Github 活跃用户
+>* Civilization & Stellaris 玩家 -> Steam @JasonQSY
+>
+> More on [About Me](http://jasonqian.me)
