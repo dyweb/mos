@@ -75,3 +75,9 @@
 >* 伪铁道爱好者
 >
 > More on [My Resume](https://codeworm96.github.io/resume/)
+
+我是秦连柯（brucechin） 
+我是一个：
+刚投入软工怀抱的大二狗
+缺少大一正规训练，目前正在恶补基础的学渣
+已戒游戏，仍喜欢看书打网球
