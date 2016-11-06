@@ -23,7 +23,7 @@
   - 至少了解一门编程语言 (如 Java, C++ 等);
   - 想为开源做贡献.
 - 加分项
-  - 熟悉 [GitHub Flow](https://guides.github.com/introduction/flow/)
+  - 熟悉 [GitHub Flow](https://guides.github.com/introduction/flow/);
   - 自己维护有开源项目, 或者是开源项目的 contributor;
   - 熟悉一个或多个开源项目.
 
