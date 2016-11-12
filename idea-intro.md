@@ -4,9 +4,9 @@
 
 ## 认领 idea
 
-在对应的 idea 下回复 #dibs 即可，同样，如果看到有人回复 #dibs，该 idea 已经被人认领。随后 idea 会被加上 kind/claimed 的 tag，该 issue 会被 assign 给认领者。
+在对应的 idea 下回复 #dibs 即可，同样，如果看到有人回复 #dibs，该 idea 已经被人认领。随后 idea 会被加上 status/claimed 的 tag，该 issue 会被 assign 给认领者。
 
-认领者需要在 issue 中记录实现进度，没有 deadline 但如果过长时间没有任何进度的 update，会被撤销 kind/claimed 的 tag，重新变为等待认领的 idea。
+认领者需要在 issue 中记录实现进度，没有 deadline 但如果过长时间没有任何进度的 update，会被撤销 status/claimed 的 tag，重新变为等待认领的 idea。
 
 如果需要在 dyweb 下创建 repo，可在 issue 下 **@dyweb/mos**
 
