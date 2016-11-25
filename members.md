@@ -5,7 +5,7 @@
 [@gaocegege](https://github.com/gaocegege)，目前比较关注 [docker/docker](https://github.com/docker/docker) 和 [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes).
 > 我是一个：
 >
->* 研究生一年级新生，目前正在上海交通大学软件学院学习姿势，2019年毕业
+>* 还有两年就要毕业的研一猫
 >* Github Heavy User，可以不吃饭，不能不上同性交友网站
 >* 刺客信条粉，虽然已经不怎么玩了
 >
