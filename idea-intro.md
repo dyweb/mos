@@ -14,7 +14,7 @@
 
 ## 实现 idea
 
-实现不设定 deadline，不限定任何要求，只要认为自己有能力去做都可以认领。语言不限，实现方式不限。不过推荐使用主流语言(C++, Java, Scala, Javascript, Golang, Rust, Lua, Python, Ruby, Haskell, Swift 等)，起码是 production ready 的语言，便于维护。
+实现不设定 deadline，不限定任何要求，只要认为自己有能力去做都可以认领。语言不限，实现方式不限。不过推荐使用主流语言(C++, Java, Scala, PHP, Javascript, Golang, Rust, Lua, Python, Ruby, Haskell, Swift 等)，起码是 production ready 的语言，便于维护。
 
 实现过程中有任何问题，都可在 issue 中 at 任意成员，或其他 idea 相关人来讨论交流。
 
