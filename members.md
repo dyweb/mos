@@ -11,6 +11,12 @@
 >
 > More on [About Me](http://gaocegege.com/Blog/about/) or [My Resume](http://gaocegege.com/resume/cn/)
 
+女朋友要我加上的：
+
+```
+不许不吃饭（╯ ‵ □′）╯︵┴─┴
+```
+
 ### 杨文杰
 
 [@mrmiywj](https://github.com/mrmiywj), 目前精力投入在 [rust](https://rust-lang.org) 社区, [servo/servo](https://github.com/servo/servo) 和 [pingcap/tikv](https://github.com/tikv).
