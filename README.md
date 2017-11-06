@@ -5,12 +5,11 @@
 [![](https://img.shields.io/badge/member-11-blue.svg)](https://github.com/dyweb/mos/blob/master/members.md)
 ![](https://img.shields.io/badge/%20focus-MOOC%20%26%20open%20source%20-blue.svg)
 
+## 开源贡献
+
+请见 [contribution.md](./contribution.md)
+
 ## 活动
-
-### 周期性活动
-
-1. 一个月一次的成员分享（题材内容不限，只要与 Programming 有关）
-2. 以课程为单位的分享（视课程进度而定）
 
 ### 不定期活动
 
@@ -24,12 +23,7 @@
 
 - 基础要求
   - 至少了解一门编程语言 (如 Java, C++ 等);
-  - 想为开源做贡献.
-- 加分项
   - 熟悉 [GitHub Flow](https://guides.github.com/introduction/flow/);
-  - 自己维护有开源项目, 或者是开源项目的 contributor;
-  - 熟悉一个或多个开源项目.
-
-注: 因为 Mos 组是今年才设立的, 所以各方面都不是很成熟, 如果有大腿还望不吝赐教!
+  - 给超过 50 star 的开源项目贡献过代码，或者自己维护有超过 10 个 star 的开源项目
 
 ## [成员](members.md)
