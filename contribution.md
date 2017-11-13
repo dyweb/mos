@@ -4,6 +4,10 @@
 [@ComMouse]: https://github.com/ComMouse
 [@at15]: https://github.com/at15
 
+## SJTUThesis Dongyue 维护版本 - 维护者
+
+[Dongyue-SJTUThesis](https://github.com/dyweb/SJTUThesis) 是由东岳网络工作室维护的交大学位论文 LaTeX 模板，由 [@gaocegege][] 维护。
+
 ## Electsys - 维护者
 
 [Electsys](https://github.com/laohyx/electsys) 是交大选课插件，由 [@ComMouse][] 维护。
