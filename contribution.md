@@ -7,6 +7,10 @@
 
 ## 由东岳成员维护的项目
 
+### Kubeflow
+
+[Kubeflow](https://github.com/kubeflow) 是由 Google, Caicloud 等公司参与的开源社区，希望提高用户在 Kubernetes 上运行机器学习工作负载的体验，[@gaocegege][] 是社区的核心维护者
+
 ### SJTUThesis
 
 [SJTUThesis](https://github.com/sjtug/SJTUThesis) 是交大学位论文 LaTeX 模板，由 [@gaocegege][] 和 [@at15][] 维护。
