@@ -7,9 +7,9 @@
 
 ## 由东岳成员维护的项目
 
-### SJTUThesis Dongyue 维护版本
+### SJTUThesis
 
-[Dongyue-SJTUThesis](https://github.com/dyweb/SJTUThesis) 是由东岳网络工作室维护的交大学位论文 LaTeX 模板，由 [@gaocegege][] 维护。
+[SJTUThesis](https://github.com/sjtug/SJTUThesis) 是交大学位论文 LaTeX 模板，由 [@gaocegege][] 和 [@at15][] 维护。
 
 ### Electsys
 
