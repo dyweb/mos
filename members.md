@@ -118,3 +118,17 @@
 >* (´・ω・`)
 >
 
+### 王瑞扬
+
+[@xplorld](https://github.com/xplorld)，目前比较关注分布式。
+> 我是一个：
+>
+>* 美帝研究生研一，May 2019 毕业
+>* 什么都会做一点点（求求你我什么都会做的）。
+>* 看点历史书，玩点 Paradox 游戏，想养猫
+>* @mrmiywj 的迷弟
+>* 感觉毕业要失业……有美帝 2019 Summer Offer 的请砸过来！！！
+>* [写作练习](https://github.com/xplorld/writings)
+>
+> More on [简历](https://github.com/xplorld/resume/raw/master/cn.pdf) [My Resume](https://github.com/xplorld/resume/raw/master/en.pdf)
+>
