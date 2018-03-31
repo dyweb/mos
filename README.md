@@ -2,7 +2,7 @@
 
 >东岳 Mos 组
 
-[![](https://img.shields.io/badge/member-11-blue.svg)](https://github.com/dyweb/mos/blob/master/members.md)
+[![](https://img.shields.io/badge/member-12-blue.svg)](https://github.com/dyweb/mos/blob/master/members.md)
 ![](https://img.shields.io/badge/%20focus-MOOC%20%26%20open%20source%20-blue.svg)
 
 ## 开源贡献
