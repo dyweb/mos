@@ -132,3 +132,14 @@
 >
 > More on [简历](https://github.com/xplorld/resume/raw/master/cn.pdf) [My Resume](https://github.com/xplorld/resume/raw/master/en.pdf)
 >
+
+### 段云智
+[@clouduan](https://github.com/clouduan).
+> 我是一个：
+>
+>* 材料大二狗，是个工具控
+>* 没有特别专注的方向，喜欢尝鲜然无一专精
+>* 向往 Meachine Learning，讨厌 Big Data
+>* 玩且只玩 [Ingress](https://www.ingress.com/) 和 Minecraft 两款游戏
+>* 无限 ym 楼上楼下的各位大佬 Orz
+>
